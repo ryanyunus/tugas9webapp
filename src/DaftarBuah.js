@@ -1,7 +1,7 @@
 import React from 'react';
 
 function DaftarBuah() {
-  const buahBuahan = ['apel', 'pisang', 'jeruk'];
+  const buahBuahan = ['apel', 'pisang', 'jeruk', 'Anggur', 'Semangka'];
 
   return (
     <ul>
