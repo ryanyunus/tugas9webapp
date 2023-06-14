@@ -16,7 +16,7 @@ function App() {
       <NamaList daftarNama={daftarNama} />
       <div>
         <CustomButton label="Klik Saya!" />
-        <ImageDisplay imageUrl="https://cdn.antaranews.com/cache/730x487/2022/10/04/FeJbx1YXwAs15li.jpg" altText="Deskripsi gambar" />
+        <ImageDisplay imageUrl="https://asset.kompas.com/crops/xjcNbFyx4Sl51KJ4XHYb-lMUCdM=/20x0:770x500/750x500/data/photo/2023/02/07/63e226d5c74bb.jpg" altText="Deskripsi gambar" />
       </div>
     </div>
   );
